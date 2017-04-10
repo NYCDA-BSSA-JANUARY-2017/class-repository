@@ -1,4 +1,4 @@
-# NodeJS Intensive Web Development Course
+# NodeJS Intensive Web Development Course April
 *__Optimized PBL Curriculum__*
 
 Welcome to the NodeJS course by the NYCDA. This document details the lessons you will be following over this 12 week program.
@@ -11,7 +11,7 @@ For questions:
 
 >About Class: contact Melvin (@melvinroest on Slack)  
 >About Administration and the NYCDA: contact Manouk (@manoukmeilof on Slack)  
->About Grades & homework: contact Gijs Lebesque (@gijslebesque on Slack)  
+>About Grades & homework: contact Jurgen Tonneyck (@piepongwong on Slack)  
 
 ## Important note on Intensity & Prework
 
