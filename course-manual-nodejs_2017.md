@@ -1,4 +1,4 @@
-# NodeJS Intensive Web Development Course April
+# NodeJS Intensive Web Development Course April 2017
 *__Optimized PBL Curriculum__*
 
 Welcome to the NodeJS course by the NYCDA. This document details the lessons you will be following over this 12 week program.
